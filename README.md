@@ -13,7 +13,7 @@ To join The Networks Minecraft server you must donwload this as a ZIP file. How 
 
 ## How to
 
-1. Navigate to the modpack download [location](https://github.com/Gigg1E/NETmcServer)
+1. Navigate to the modpack download [site](https://github.com/Gigg1E/NETmcServer)
   
 2. Click the blue `Code` button to the top right of this branch
   
