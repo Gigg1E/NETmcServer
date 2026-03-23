@@ -30,7 +30,7 @@ It default the download to your download folder
 
 ## How to add modpack (CurseForge)
 
-1. Open [CurseForge]([Download CurseForge App - Mods, Addons and CC Manager](https://www.curseforge.com/download/app))
+1. Open [CurseForge](https://www.curseforge.com/download/app)
   
 2. Click `Import`
   
@@ -66,6 +66,6 @@ It default the download to your download folder
 
 * * *
 
-Updates and changes to the modpack and server will be announced in our [discord server]([The Network](https://discord.gg/5cX7uurJEM)) so please keep in touch and up to date.
+Updates and changes to the modpack and server will be announced in our [discord server](https://discord.gg/5cX7uurJEM) so please keep in touch and up to date.
 
-If you have any issues or questions please open a ticket in the discord server [ticket-maker]([The Network](https://discord.gg/gEaXtSNjDz)).
+If you have any issues or questions please open a ticket in the discord server [ticket-maker](https://discord.gg/gEaXtSNjDz).
