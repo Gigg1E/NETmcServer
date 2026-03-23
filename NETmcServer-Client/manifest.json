@@ -1,0 +1,97 @@
+{
+  "minecraft": {
+    "version": "1.20.1",
+    "modLoaders": [
+      {
+        "id": "forge-47.4.10",
+        "primary": true
+      }
+    ]
+  },
+  "manifestType": "minecraftModpack",
+  "manifestVersion": 1,
+  "name": "NETmcServer-Client",
+  "version": "",
+  "author": "",
+  "files": [
+    {
+      "projectID": 858542,
+      "fileID": 5284015,
+      "required": true,
+      "isLocked": false
+    },
+    {
+      "projectID": 250398,
+      "fileID": 4646682,
+      "required": true,
+      "isLocked": false
+    },
+    {
+      "projectID": 1352395,
+      "fileID": 7025902,
+      "required": true,
+      "isLocked": false
+    },
+    {
+      "projectID": 610844,
+      "fileID": 7251787,
+      "required": true,
+      "isLocked": false
+    },
+    {
+      "projectID": 431203,
+      "fileID": 7684712,
+      "required": true,
+      "isLocked": false
+    },
+    {
+      "projectID": 574856,
+      "fileID": 4952685,
+      "required": true,
+      "isLocked": false
+    },
+    {
+      "projectID": 1348190,
+      "fileID": 7680105,
+      "required": true,
+      "isLocked": false
+    },
+    {
+      "projectID": 678384,
+      "fileID": 7686239,
+      "required": true,
+      "isLocked": false
+    },
+    {
+      "projectID": 581495,
+      "fileID": 4767500,
+      "required": true,
+      "isLocked": false
+    },
+    {
+      "projectID": 1113130,
+      "fileID": 7638275,
+      "required": true,
+      "isLocked": false
+    },
+    {
+      "projectID": 1248172,
+      "fileID": 7644348,
+      "required": true,
+      "isLocked": false
+    },
+    {
+      "projectID": 380969,
+      "fileID": 7556678,
+      "required": true,
+      "isLocked": false
+    },
+    {
+      "projectID": 551206,
+      "fileID": 6374224,
+      "required": true,
+      "isLocked": false
+    }
+  ],
+  "overrides": "overrides"
+}
