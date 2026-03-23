@@ -2,8 +2,9 @@
 
 To join The Networks Minecraft server you must donwload this as a ZIP file
 
-| --- | --- | --- |
+
 | What you need | Where to download (Full links) | Description |
+| --- | --- | --- |
 | Curse Forge | https://www.curseforge.com/download/app | Primary mod loader used |
 | NETmcServer modpack | https://github.com/Gigg1E/NETmcServer | Where to donwnload modpack |
 | NETmcServer Address | yin-unabashed.gl.joinmc.link | The servers address and how you join|
