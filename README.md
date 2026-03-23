@@ -18,7 +18,7 @@ To join The Networks Minecraft server you must donwload this as a ZIP file
 
 1. Click the blue `Code` button to the top right of this branch
 
-2. After the dropdown is visible, click download as zip
+2. After the dropdown is visible, click `download as zip`
 
 3. Once downloaded navigate to Curse Forge
 
