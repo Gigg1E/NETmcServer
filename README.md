@@ -8,7 +8,7 @@ To join The Networks Minecraft server you must donwload this as a ZIP file. How 
 | Modrinth | https://modrinth.com/app | Other option for loader included |
 | NETmcServer modpack | https://github.com/Gigg1E/NETmcServer   | Where to download modpack            |
 | NETmcServer Address                             | yin-unabashed.gl.joinmc.link            | The servers address and how you join |
-| The Network Discord Server                      | https://discord.gg/5cX7uurJEM           | How to reach out and keep updated    |
+| The Network Discord Server                      | https://discord.gg/DC7mgQjqHY           | How to reach out and keep updated    |
 
 > The Server Address might change. Ill announcing any changes in the discord server.
 
