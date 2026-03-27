@@ -1,6 +1,4 @@
-# # NETmcServer
-
-To join The Networks Minecraft server you must donwload this as a ZIP file. How to below.
+# NETmcServer
 
 | What you need                            | Where to download (Full links)          | Description                          |
 | ---------------------------------------- | --------------------------------------- | ------------------------------------ |
