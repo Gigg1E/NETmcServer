@@ -6,7 +6,7 @@ To join The Networks Minecraft server you must donwload this as a ZIP file. How 
 | ---------------------------------------- | --------------------------------------- | ------------------------------------ |
 | Curse Forge                              | https://www.curseforge.com/download/app | Primary mod loader used              |
 | Modrinth (optional)                             | https://modrinth.com/app                | Other option for loader included     |
-| NETmcServer modpack                      | https://github.com/Gigg1E/NETmcServer   | Where to download modpack            |
+| NETmcServer modpack                      | [https://github.com/Gigg1E/NETmcServer](https://github.com/Gigg1E/NETmcServer/releases/download/1.0.1/DEF-NET-Client-1.0.1.zip)   | Where to download modpack            |
 | NETmcServer Address                      | yin-unabashed.gl.joinmc.link            | The servers address and how you join |
 | The Network Discord Server               | https://discord.gg/DC7mgQjqHY           | How to reach out and keep updated    |
 
