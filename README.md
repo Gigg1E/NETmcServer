@@ -15,7 +15,7 @@ To join The Networks Minecraft server you must donwload this as a ZIP file. How 
 ## Help Videos
 ### CurseForge
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KTm-ciD-f_A?si=tv9Qx__dbrfC-ZUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+[![CurseForge Help Video](https://img.youtube.com/vi/KTm-ciD-f_A/maxresdefault.jpg)](https://www.youtube.com/watch?v=KTm-ciD-f_A)
 
 If video doesn't show, use this link: [CurseForge Help Video](https://youtu.be/KTm-ciD-f_A?si=tv9Qx__dbrfC-ZUa)
 
@@ -23,7 +23,7 @@ If video doesn't show, use this link: [CurseForge Help Video](https://youtu.be/K
 
 To get the modpack on Modrinth you will still need CurseForge installed with the modpack in CurseForge. More info in the video
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/91HmKHBDwqM?si=B-dQx75uPhnPbVG-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+[![Convert CurseForge to Modrinth](https://img.youtube.com/vi/91HmKHBDwqM/maxresdefault.jpg)](https://www.youtube.com/watch?v=91HmKHBDwqM)
 
 If the video doesn't show, use this link: [Convert CurseForge to Modrinth](https://youtu.be/91HmKHBDwqM?si=B-dQx75uPhnPbVG-)
 
