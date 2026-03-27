@@ -12,6 +12,10 @@ To join The Networks Minecraft server you must donwload this as a ZIP file. How 
 
 > The Server Address might change. Announcments and any changes will be posted in the discord server.
 
+## Download
+Click here to download:
+[TheNetwork Modpack](https://github.com/Gigg1E/NETmcServer/releases/download/1.0.1/DEF-NET-Client-1.0.1.zip)
+
 ## Help Videos
 ### CurseForge
 
