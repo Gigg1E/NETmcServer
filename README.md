@@ -2,98 +2,40 @@
 
 To join The Networks Minecraft server you must donwload this as a ZIP file. How to below.
 
-| What you need                                   | Where to download (Full links)          | Description                          |
-| ----------------------------------------------- | --------------------------------------- | ------------------------------------ |
-| Curse Forge                                     | https://www.curseforge.com/download/app | Primary mod loader used              |
-| Modrinth | https://modrinth.com/app | Other option for loader included |
-| NETmcServer modpack | https://github.com/Gigg1E/NETmcServer   | Where to download modpack            |
-| NETmcServer Address                             | yin-unabashed.gl.joinmc.link            | The servers address and how you join |
-<<<<<<< HEAD
-| The Network Discord Server                      | https://discord.gg/DC7mgQjqHY           | How to reach out and keep updated    |
+| What you need                            | Where to download (Full links)          | Description                          |
+| ---------------------------------------- | --------------------------------------- | ------------------------------------ |
+| Curse Forge                              | https://www.curseforge.com/download/app | Primary mod loader used              |
+| Modrinth (optional)                             | https://modrinth.com/app                | Other option for loader included     |
+| NETmcServer modpack                      | https://github.com/Gigg1E/NETmcServer   | Where to download modpack            |
+| NETmcServer Address                      | yin-unabashed.gl.joinmc.link            | The servers address and how you join |
+| The Network Discord Server               | https://discord.gg/DC7mgQjqHY           | How to reach out and keep updated    |
 
-> The Server Address might change. Ill announcing any changes in the discord server.
+> The Server Address might change. Announcments and any changes will be posted in the discord server.
 
-## How to download
-
+## Help Videos
 ### CurseForge
-
-Goal: To get the ZIP folder ready for CurseForge
-
-<u>Download</u>
-
-1. Navigate to the modpack download [site](https://github.com/Gigg1E/NETmcServer)
-
-2. Click the blue `Code` button to the top right of this branch
-
-3. After the dropdown is visible, click download as zip
-
->  It default the location to your download folder
-
-4. Export the zip in your desired directory
-
-<u>Upload to CurseForge</u>
-
-1. Open/Install CurseForge
-
-2. Make sure you have Minecraft as a avalible game
-
-3. Click `import`
-
-4. Click `Choose .ZIP File`
-
-5. Find you zip you just extracted and click `Open`
-
-6. Tada!
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KTm-ciD-f_A?si=tv9Qx__dbrfC-ZUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+If video doesn't show, use this link: [CurseForge Help Video](https://youtu.be/KTm-ciD-f_A?si=tv9Qx__dbrfC-ZUa)
 ### Modrinth
+To get the modpack on Modrinth you will still need CurseForge installed with the modpack in CurseForge. More info in the video
+<iframe width="560" height="315" src="https://www.youtube.com/embed/91HmKHBDwqM?si=B-dQx75uPhnPbVG-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+If the video doesn't show, use this link: [Convert CurseForge to Modrinth](https://youtu.be/91HmKHBDwqM?si=B-dQx75uPhnPbVG-)
 
-Goal: To get the MRPACK file ready for Modrinth
-
-<u>Download</u>
-
-1. Navigate to the modpack download [site](https://github.com/Gigg1E/NETmcServer)
-
-2. Click the blue `Code` button to the top right of this branch
-
-3. After the dropdown is visible, click download as zip
-
-> It default the location to your download folder
-
-4. Export the zip in your desired directory
-
-<u>Upload to Modrinth</u>
-
-1. Open/Install Modrinth
-
-2. Create new instance
-
-3. Click `From File`
-
-4. Click `Import From File` and navigate to your MRPACK file
-
-5. Click `Open`
-
-6. Tada!
-
-## How to add server
+## How to Add Server
 
 Goal: Add The Networks Minecraft server to your multiplayer worlds
 
-After starting the Client, follow the steps below.
+After launching the modpack, follow the steps below.
 
-1. Finish editing your settings
+1. Make sure you can see `Multiplayer` (Main Menu)
 
-2. Make sure you can see `Multiplayer` (Main Menu)
+2. Click add server
 
-3. Click add server
+3. Copy this address: `yin-unabashed.gl.joinmc.link`
 
-4. Feel free to change the server name to anything you like: `NETmcServer`
+4. Paste the address into the `Server Address` section
 
-5. Copy this address: `yin-unabashed.gl.joinmc.link`
-
-6. Paste the address into the `Server Address` section
-
-7. Click play and enjoy!
+5. Click play and enjoy!
 
 * * *
 
