@@ -33,22 +33,12 @@ If the video doesn't show, use this link: [Convert CurseForge to Modrinth](https
 
 ## How to Add Server
 
-Goal: Add The Networks Minecraft server to your multiplayer worlds
-
-After launching the modpack, follow the steps below.
-
-1. Make sure you can see `Multiplayer` (Main Menu)
-
-2. Click add server
-
-3. Copy this address: `yin-unabashed.gl.joinmc.link`
-
-4. Paste the address into the `Server Address` section
-
-5. Click play and enjoy!
+if the server is not automatically in your multiplayer servers list you can add it manually.
+Server Address: `yin-unabashed.gl.joinmc.link`
+> Subject to change as updates role out.
 
 * * *
 
-Updates and changes to the modpack and server will be announced in our [discord server](https://discord.gg/5cX7uurJEM) so please keep in touch and up to date.
+Updates and changes to the modpack and server will be announced in our [discord server](https://discord.gg/5cX7uurJEM). Please keep in touch and up to date.
 
 If you have any issues or questions please open a ticket in the discord server [ticket-maker](https://discord.gg/gEaXtSNjDz).
