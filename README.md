@@ -16,6 +16,13 @@ Click here to download:
 
 Or download the latest version from releases.
 
+## How to Add Server
+
+if the server is not automatically in your multiplayer servers list you can add it manually.
+
+Server Address: `yin-unabashed.gl.joinmc.link`
+> Subject to change as updates role out.
+
 ## Help Videos
 ### CurseForge
 
@@ -30,12 +37,6 @@ To get the modpack on Modrinth you will still need CurseForge installed with the
 [![Convert CurseForge to Modrinth](https://img.youtube.com/vi/91HmKHBDwqM/maxresdefault.jpg)](https://www.youtube.com/watch?v=91HmKHBDwqM)
 
 If the video doesn't show, use this link: [Convert CurseForge to Modrinth](https://youtu.be/91HmKHBDwqM?si=B-dQx75uPhnPbVG-)
-
-## How to Add Server
-
-if the server is not automatically in your multiplayer servers list you can add it manually.
-Server Address: `yin-unabashed.gl.joinmc.link`
-> Subject to change as updates role out.
 
 * * *
 
