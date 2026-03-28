@@ -14,6 +14,8 @@
 Click here to download:
 [TheNetwork Modpack](https://github.com/Gigg1E/NETmcServer/releases/download/1.0.5/DEF-NET-Client-1.0.5.zip)
 
+Or download the latest version from releases.
+
 ## Help Videos
 ### CurseForge
 
