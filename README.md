@@ -18,7 +18,7 @@ Or download the latest version from releases.
 
 ## How to Add Server
 
-if the server is not automatically in your multiplayer servers list you can add it manually.
+If the server is not automatically in your multiplayer servers list you can add it manually.
 
 Server Address: `yin-unabashed.gl.joinmc.link`
 > Subject to change as updates role out.
